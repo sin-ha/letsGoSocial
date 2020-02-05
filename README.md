@@ -3,7 +3,17 @@ WebApp
 
 The server side of the app is a written using node js
 
-To run the app locally instal all dependencies as in package.json and use `node db` in the terminal
+To run the app locally install all dependencies as in package.json and use `node db` in the terminal
+
+you have to configure your own .env file
+it should have three fields
+
+`
+CONNECTIONSTRING= <key>
+PORT =<port no. || preset 3000>
+JWTSECRET = <jwt api key for login>
+SENDGRID = <sendgrid api key>
+`
 
 The preset port is 3000 so you may visit localhost:3000
 
