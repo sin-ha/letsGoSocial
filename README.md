@@ -17,4 +17,4 @@ SENDGRID = <sendgrid api key>`<br>`
 
 The preset port is 3000 so you may visit localhost:3000
 
-The app is deployed on Heroku.<a href = "https://mausigosocial.herokuapp.com/" target = _blank> <b><u>ClICK HERE</u></b></a>
+The app is deployed on Heroku.<a href = "https://letsgosocial.herokuapp.com/" target = _blank> <b><u>ClICK HERE</u></b></a>
