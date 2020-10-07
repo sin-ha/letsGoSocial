@@ -1,4 +1,12 @@
 # MousiGoSocial
+
+This is a social media website that serves you messages from the people you follow
+The following features are implemented
+## live chat room (socket.io)
+## interactive search
+## csurf validation for security
+apart from general things like login validations profile pictures etc.
+
 WebApp
 
 The server side of the app is a written using node js
